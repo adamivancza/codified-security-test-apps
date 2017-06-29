@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "bitrise_test", "bitrise_test\bitrise_test.shproj", "{823B5804-AA67-4C4B-BD84-93E1D148F5B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitrise_test.iOS", "iOS\bitrise_test.iOS.csproj", "{39937940-FF7D-48FD-B32B-A534A8FB8F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Release|iPhone.ActiveCfg = Release|iPhone
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Release|iPhone.Build.0 = Release|iPhone
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{39937940-FF7D-48FD-B32B-A534A8FB8F50}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
